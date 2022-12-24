@@ -1,3 +1,3 @@
 # proyecto-motocross
 
-This is uno of my University projects, responsive build with HTML, CSS ,JS and Bootstrap. 
+This is one of my University projects, One Page style fully responsive website build with HTML, CSS ,JS and Bootstrap. 
