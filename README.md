@@ -4,4 +4,4 @@ This is one of my University projects, One Page style fully responsive website b
 
 Take a look at the result: 
 
-[Click Here](https://tropicalboy21.github.io/proyecto-motocross/Examen/one-page.html#invi-nav-01)
+[Click Here](https://tropicalboy21.github.io/project-motocross/Examen/one-page.html#invi-nav-01)
